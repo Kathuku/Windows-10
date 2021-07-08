@@ -1,2 +1,2 @@
-# W10.Digital.License.Activation.Script
+# Windows 10
 W10  Digital License Activation Script
